@@ -1,6 +1,3 @@
-Git is a verson control system.
+Git is a distributed verson control system.
 Git is free software.
- git commit -m "wrote a readme file" 
- [master (root-commit) cb926e7] wrote a readme file 
- 1 file change, 2 insertions(+) 
- create mode 100644 readme.txt
+ 
